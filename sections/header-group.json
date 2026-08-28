@@ -43,16 +43,32 @@
             "text_color": "{{ settings.color_palette.background }}"
           },
           "blocks": {}
+        },
+        "announcement_YChUPc": {
+          "type": "_announcement",
+          "settings": {
+            "text": "Instant Delivery — Your Vegan Recipe Guide, Ready in Seconds",
+            "link": "",
+            "font": "var(--font-subheading--family)",
+            "font_size": "1.25rem",
+            "font_size_mobile": "1rem",
+            "weight": "",
+            "letter_spacing": "normal",
+            "case": "none",
+            "text_color": "{{ settings.color_palette.background }}"
+          },
+          "blocks": {}
         }
       },
       "block_order": [
         "announcement_BxgCk9",
-        "announcement_q3NaNh"
+        "announcement_q3NaNh",
+        "announcement_YChUPc"
       ],
       "name": "t:names.announcement_bar",
       "settings": {
         "speed": 5,
-        "section_width": "page-width",
+        "section_width": "full-width",
         "background_color": "#6e5140",
         "divider_width": 0,
         "divider_color": "",
