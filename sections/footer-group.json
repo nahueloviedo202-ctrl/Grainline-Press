@@ -22,7 +22,7 @@
         "animation_speed": 1,
         "space_above": 0,
         "space_below": 0,
-        "background_color": "#F0EAD2"
+        "background_color": "#DDE5B6"
       }
     },
     "footer_m9NzUG": {
@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Elyndra Insights LLC</p>",
+                    "text": "<p>The Green Plate</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
