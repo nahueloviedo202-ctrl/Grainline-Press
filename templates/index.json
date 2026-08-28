@@ -1272,7 +1272,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Train Like a Pro, Even If You're Just Starting Out</h2>",
+                "text": "<p>Cook Delicious Vegan Meals, Even If You're Just Starting Out</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1299,7 +1299,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Discover 10 easy, quick and effective exercises made with simple equipment and step-by-step guidance.</p>",
+                "text": "<p>Discover easy, flavorful vegan recipes made with simple ingredients and step-by-step guidance.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1326,7 +1326,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Get the Exercises",
+                "label": "Get the Recipe Book",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
