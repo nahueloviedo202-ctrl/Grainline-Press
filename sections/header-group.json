@@ -37,9 +37,9 @@
       "settings": {
         "speed": 5,
         "section_width": "page-width",
-        "background_color": "#e28b8b",
-        "divider_width": 1,
-        "divider_color": "{{ settings.color_palette.color2 }}",
+        "background_color": "#6C584C",
+        "divider_width": 0,
+        "divider_color": "",
         "padding-block-start": 20,
         "padding-block-end": 20
       }
@@ -68,7 +68,7 @@
             "text_color": "",
             "link_background_color": "",
             "link_background_color_hover": "",
-            "link_background_color_active": "#e28b8b",
+            "link_background_color_active": "#F0EAD2",
             "link_background_radius": 10,
             "link_background_padding_block": 6,
             "type_font_primary_size": "0.875rem",
@@ -118,7 +118,7 @@
         "actions_font_size": "0.875rem",
         "actions_font": "body",
         "actions_text_case": "none",
-        "background_color_top": "#f1d3d3",
+        "background_color_top": "#ADC178",
         "text_color_top": "{{ settings.color_palette.foreground }}",
         "background_color_bottom": "",
         "text_color_bottom": "",
