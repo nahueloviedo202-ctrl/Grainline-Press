@@ -28,10 +28,26 @@
             "text_color": "{{ settings.color_palette.background }}"
           },
           "blocks": {}
+        },
+        "announcement_q3NaNh": {
+          "type": "_announcement",
+          "settings": {
+            "text": "Instant Access — Vegan Recipes, Delivered Digitally",
+            "link": "",
+            "font": "var(--font-subheading--family)",
+            "font_size": "1.25rem",
+            "font_size_mobile": "1rem",
+            "weight": "",
+            "letter_spacing": "normal",
+            "case": "none",
+            "text_color": "{{ settings.color_palette.background }}"
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "announcement_BxgCk9"
+        "announcement_BxgCk9",
+        "announcement_q3NaNh"
       ],
       "name": "t:names.announcement_bar",
       "settings": {
