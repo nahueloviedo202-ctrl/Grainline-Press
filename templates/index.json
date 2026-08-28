@@ -820,7 +820,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Everything You Need to Train with Confidence</h2>",
+            "text": "<p>Everything You Need to Enjoy Vegan Cooking</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -927,7 +927,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>⏱️ Quick & Easy Workouts</h4>",
+                    "text": "<h4>🥑 Easy & Delicious Recipes</h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -954,7 +954,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Exercises designed for busy schedules with minimal setup time.</p>",
+                    "text": "<p>Simple plant-based recipes packed with flavor and easy to prepare at home.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1027,7 +1027,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>🏋️ Perfect Everyday Routines</h4>",
+                    "text": "<h4>🌱 Perfect for Everyday Meals</h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1054,7 +1054,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Simple exercises that work for any day of the week.</p>",
+                    "text": "<p>Wholesome recipes made for breakfast, lunch, dinner, snacks and more.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1127,7 +1127,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>💪 Proven Movements, Full Results</h4>",
+                    "text": "<h4>✨ Flavorful Recipes, Real Results</h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1154,7 +1154,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Quality exercises that create effective results.</p>",
+                    "text": "<p>Enjoy satisfying vegan meals without complicated ingredients or techniques.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
