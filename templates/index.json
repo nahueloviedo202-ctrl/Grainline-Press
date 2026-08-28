@@ -220,6 +220,7 @@
         "image_zwQBFL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_78l0jv78l0jv78l0.webp",
             "link": "",
             "image_ratio": "landscape",
             "width": "fill",
@@ -1355,6 +1356,7 @@
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
+        "image_1": "shopify://shop_images/Gemini_Generated_Image_ybs37pybs37pybs3.webp",
         "media_type_2": "image",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
