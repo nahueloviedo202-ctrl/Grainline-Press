@@ -17,7 +17,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Get your files at once — Instant digital delivery",
+            "text": "Instant delivery - Digital content",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -37,7 +37,7 @@
       "settings": {
         "speed": 5,
         "section_width": "page-width",
-        "background_color": "#6C584C",
+        "background_color": "#6e5140",
         "divider_width": 0,
         "divider_color": "",
         "padding-block-start": 20,
@@ -68,7 +68,7 @@
             "text_color": "",
             "link_background_color": "",
             "link_background_color_hover": "",
-            "link_background_color_active": "#F0EAD2",
+            "link_background_color_active": "#f0ead2",
             "link_background_radius": 10,
             "link_background_padding_block": 6,
             "type_font_primary_size": "0.875rem",
@@ -118,7 +118,7 @@
         "actions_font_size": "0.875rem",
         "actions_font": "body",
         "actions_text_case": "none",
-        "background_color_top": "#ADC178",
+        "background_color_top": "#adc178",
         "text_color_top": "{{ settings.color_palette.foreground }}",
         "background_color_bottom": "",
         "text_color_bottom": "",
