@@ -282,7 +282,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Fitness Made Simple, Powerful and Enjoyable</p>",
+                "text": "<p>Vegan Cooking Made Simple, Delicious and Enjoyable</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -308,7 +308,7 @@
             "text_rnp6Cj": {
               "type": "text",
               "settings": {
-                "text": "<p>Working out at home does not have to be complicated. Our digital exercise guide features 10 simple, effective exercises designed to help you build strength and confidence. Whether you are just starting out or looking for new inspiration, our routines make it easy to bring gym-style results into your everyday home.</p>",
+                "text": "<p>Eating plant-based at home does not have to be complicated. Our digital vegan recipe guide features 10 simple, delicious recipes designed to help you cook with confidence. Whether you are just starting out or looking for new inspiration, our recipes make it easy to bring plant-based flavor into your everyday home.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -528,7 +528,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Do I need workout experience?",
+                "heading": "Do I need cooking experience?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -538,7 +538,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>No. The exercises are beginner-friendly and easy to follow.</p>",
+                    "text": "<p>No. The recipes are beginner-friendly and easy to follow.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
