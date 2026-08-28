@@ -67,7 +67,7 @@
       ],
       "name": "t:names.announcement_bar",
       "settings": {
-        "speed": 5,
+        "speed": 4,
         "section_width": "full-width",
         "background_color": "#6e5140",
         "divider_width": 0,
