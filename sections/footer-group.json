@@ -16,13 +16,13 @@
       "name": "Shape divider",
       "settings": {
         "height": 80,
-        "shape_color": "#e28b8b",
+        "shape_color": "#ADC178",
         "flip": false,
         "animate": true,
         "animation_speed": 1,
         "space_above": 0,
         "space_below": 0,
-        "background_color": "#fdf6ec"
+        "background_color": "#DDE5B6"
       }
     },
     "footer_m9NzUG": {
@@ -938,14 +938,14 @@
                 "ai_gen_block_e3eb87d_GzgXh7": {
                   "type": "ai_gen_block_e3eb87d",
                   "settings": {
-                    "menu": "politicies",
+                    "menu": "",
                     "desktop_width_percent": 100,
                     "alignment": "flex-start",
                     "mobile_alignment": "center",
                     "link_spacing": 12,
                     "show_separator": true,
                     "separator_text": "|",
-                    "separator_color": "#DFDFDF",
+                    "separator_color": "#dfdfdf",
                     "font_size": 13,
                     "link_color": "{{ settings.color_palette.background }}",
                     "link_hover_color": "#333333"
@@ -967,7 +967,7 @@
                     "mobile_alignment": "center",
                     "link_color": "{{ settings.color_palette.background }}",
                     "link_hover_color": "#666666",
-                    "separator_color": "#DFDFDF"
+                    "separator_color": "#dfdfdf"
                   },
                   "blocks": {}
                 },
@@ -1026,7 +1026,7 @@
       "settings": {
         "section_width": "page-width",
         "gap": 20,
-        "background_color": "#e28b8b",
+        "background_color": "#ADC178",
         "padding-block-start": 30,
         "padding-block-end": 30
       }
