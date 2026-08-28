@@ -138,6 +138,7 @@
                     "type_preset": "h2",
                     "font": "var(--font-body--family)",
                     "font_size": "1rem",
+                    "font_size_mobile": "",
                     "line_height": "normal",
                     "letter_spacing": "normal",
                     "case": "none",
@@ -181,11 +182,12 @@
                     "alignment": "left",
                     "font": "var(--font-body--family)",
                     "font_size": "1.5rem",
+                    "font_size_mobile": "",
                     "line_height": "normal",
                     "letter_spacing": "normal",
                     "case": "none",
                     "text_color": "",
-                    "sale_price_color": "#C9A84C",
+                    "sale_price_color": "#6E5140",
                     "compare_price_color": "{{ settings.color_palette.color1 }}",
                     "padding-block-start": 4,
                     "padding-block-end": 0,
@@ -282,9 +284,9 @@
                   "static": true,
                   "settings": {
                     "style_class": "button-custom",
-                    "custom_button_background": "#c9a84c",
+                    "custom_button_background": "#adc178",
                     "custom_button_text": "{{ settings.color_palette.background }}",
-                    "custom_button_border": "#c9a84c"
+                    "custom_button_border": "#adc178"
                   },
                   "blocks": {}
                 },
@@ -309,6 +311,7 @@
                 "type_preset": "rte",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
+                "font_size_mobile": "",
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
@@ -344,7 +347,7 @@
         "limit_details_width": false,
         "gap": 40,
         "enable_sticky_add_to_cart": true,
-        "background_color": "#fdf6ec",
+        "background_color": "#DDE5B6",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
