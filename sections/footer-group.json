@@ -22,7 +22,7 @@
         "animation_speed": 1,
         "space_above": 0,
         "space_below": 0,
-        "background_color": "#F0EAD2"
+        "background_color": "#dde5b6"
       }
     },
     "footer_m9NzUG": {
@@ -238,7 +238,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>98-1965231</p>",
+                    "text": "<p>98-1967177</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -338,7 +338,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Elyndra Insights LLC is a Limited Liability Company registered in the United States.</p>",
+                    "text": "<p>The Green Plate Marketing LLC is a Limited Liability Company registered in the United States.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -538,7 +538,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Remote-first company. Elyndra Insights LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
+                    "text": "<p>Remote-first company. The Green Plate Marketing LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -638,7 +638,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Phone: +1 (332) 777-4024</p>",
+                    "text": "<p>Phone: +1 (681) 254-5147</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -665,7 +665,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: contact@elyndrainsights.com</p>",
+                    "text": "<p>Email: contact@the-green-plate.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -766,7 +766,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The Green Plate LLC</p>",
+                    "text": "<p>The Green Plate Marketing LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -975,7 +975,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>© 2026 Elyndra Insights LLC | EIN: 98-1965231 | All rights reserved.</p>",
+                    "text": "<p>© 2026 The Green Plate Marketing LLC | EIN: 98-1967177 | All rights reserved.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
