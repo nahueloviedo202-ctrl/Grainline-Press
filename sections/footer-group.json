@@ -665,7 +665,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: contact@Grainline-Press.com</p>",
+                    "text": "<p>Email: contact@grainlinepress.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
