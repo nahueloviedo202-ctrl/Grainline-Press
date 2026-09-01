@@ -766,7 +766,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Grainline Press Marketing LLC</p>",
+                    "text": "<p>Grainline Press LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -975,7 +975,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>© 2026 Grainline Press Marketing LLC | EIN: 98-1967177 | All rights reserved.</p>",
+                    "text": "<p>© 2026 Grainline Press LLC | EIN: 98-1967177 | All rights reserved.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
