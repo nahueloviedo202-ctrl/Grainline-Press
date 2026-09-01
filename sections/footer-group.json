@@ -16,13 +16,13 @@
       "name": "Shape divider",
       "settings": {
         "height": 80,
-        "shape_color": "#213D44",
+        "shape_color": "#213d44",
         "flip": false,
         "animate": true,
         "animation_speed": 1,
         "space_above": 0,
         "space_below": 0,
-        "background_color": "#EDE6D6"
+        "background_color": "#ede6d6"
       }
     },
     "footer_m9NzUG": {
@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Grainline Press</p>",
+                    "text": "<p>Grainline Press LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -338,7 +338,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The Grainline Press Marketing LLC is a Limited Liability Company registered in the United States.</p>",
+                    "text": "<p>Grainline Press LLC is a Limited Liability Company registered in the United States.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -638,7 +638,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Phone: +1 (681) 254-5147</p>",
+                    "text": "<p>Phone: +1 (606) 532 5585</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1026,7 +1026,7 @@
       "settings": {
         "section_width": "page-width",
         "gap": 20,
-        "background_color": "#213D44",
+        "background_color": "#213d44",
         "padding-block-start": 30,
         "padding-block-end": 30
       }
