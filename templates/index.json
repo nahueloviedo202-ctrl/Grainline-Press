@@ -1041,7 +1041,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Cook Delicious Vegan Meals, Even If You're Just Starting Out</p>",
+                "text": "<p>Sew Beautiful Pieces with Confidence, Even If You're Just Starting Out</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1068,7 +1068,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Discover easy, flavorful vegan recipes made with simple ingredients and step-by-step guidance.</p>",
+                "text": "<p>Discover 10 easy, beautiful sewing patterns made with simple materials and step-by-step guidance.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1095,7 +1095,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Get the Recipe Book",
+                "label": "Get the Pattern Book",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
@@ -1124,6 +1124,7 @@
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
+        "image_1": "shopify://shop_images/Gemini_Generated_Image_w59dezw59dezw59d.webp",
         "media_type_2": "image",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
@@ -1161,11 +1162,11 @@
           "settings": {
             "show_rating": true,
             "rating": 5,
-            "heading": "Amazing Recipes!",
+            "heading": "Amazing Patterns!",
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>The recipes were easy to follow and the meals looked amazing. I tried the pesto pasta on my first try and it turned out perfect.</p>",
+            "text": "<p>The patterns were easy to follow and the pieces looked amazing. I tried the simple tote bag on my first try and it turned out perfect.</p>",
             "author": "Sarah M."
           },
           "blocks": {}
@@ -1179,7 +1180,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>Perfect for quick dinners during the week. Simple ingredients and great results. I never thought cooking at home could be this easy.</p>",
+            "text": "<p>Perfect for quick projects during the week. Simple materials and great results. I never thought sewing at home could be this easy.</p>",
             "author": "James R."
           },
           "blocks": {}
@@ -1193,7 +1194,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>I loved the digital format. I could follow everything directly from my phone while cooking. Highly recommend to anyone who wants to cook better.</p>",
+            "text": "<p>I loved the digital format. I could follow everything directly from my phone while sewing. Highly recommend to anyone who wants to sew better.</p>",
             "author": "Emily T."
           },
           "blocks": {}
@@ -1229,7 +1230,7 @@
         "star_color": "#ffcc00",
         "star_background_color": "#ffcc00",
         "show_quote_icon": true,
-        "quote_icon_color": "#1F3B3F",
+        "quote_icon_color": "#D97757",
         "quote_icon_size_desktop": 30,
         "quote_icon_size_mobile": 24,
         "card_background_color": "#EDE6D6",
@@ -1241,7 +1242,7 @@
         "border_width": 1,
         "border_opacity": 100,
         "border_color": "",
-        "background_color": "#D97757",
+        "background_color": "#F5F0E4",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
@@ -1387,7 +1388,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Handpicked recipes crafted with attention to detail. Each dish in our collection is selected to meet our high standards for flavor and results.</p>",
+                    "text": "<p>Handpicked patterns crafted with attention to detail. Each design in our collection is selected to meet our high standards for style and results.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1487,7 +1488,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Get your recipe guide delivered instantly. We ensure your digital download is ready to use the moment you purchase, on any device.</p>",
+                    "text": "<p>Get your pattern guide delivered instantly. We ensure your digital download is ready to use the moment you purchase, on any device.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2318,7 +2319,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 93,
-            "text": "<p>Our users love how these recipes transform their daily meals from the first attempt, with simple ingredients and easy-to-follow steps.</p>"
+            "text": "<p>Our users love how these patterns transform their everyday wardrobe from the first attempt, with simple materials and easy-to-follow steps.</p>"
           },
           "blocks": {}
         },
@@ -2326,7 +2327,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 96,
-            "text": "<p>More than 10,000 passionate home cooks have already discovered our recipes and never looked back. Each dish is a unique culinary experience.</p>"
+            "text": "<p>More than 10,000 passionate sewists have already discovered our patterns and never looked back. Each piece is a unique handmade creation.</p>"
           },
           "blocks": {}
         },
@@ -2334,7 +2335,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 100,
-            "text": "<p>Simple, effective, and delicious. These recipes are exactly what your kitchen has been waiting for to create memorable meals.</p>"
+            "text": "<p>Simple, effective, and beautiful. These patterns are exactly what your sewing table has been waiting for to create memorable pieces.</p>"
           },
           "blocks": {}
         }
@@ -2346,12 +2347,12 @@
       ],
       "name": "Results",
       "settings": {
-        "heading": "Discover Our Best Recipes",
+        "heading": "Discover Our Best Patterns",
         "heading_type_preset": "h2",
         "heading_font_size_desktop": 40,
         "heading_font_size_mobile": 32,
         "heading_alignment": "center",
-        "subheading": "<p>Explore our collection of delicious and easy-to-follow recipes. From classic dishes to modern creations, find the inspiration you need to cook with confidence at home, with proven techniques and simple ingredients.</p>",
+        "subheading": "<p>Explore our collection of beautiful and easy-to-follow patterns. From classic designs to modern creations, find the inspiration you need to sew with confidence, with proven techniques and simple materials.</p>",
         "subheading_font_size_desktop": 16,
         "subheading_font_size_mobile": 15,
         "stat_text_font_size_desktop": 15,
@@ -2505,7 +2506,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Do I need cooking experience?",
+                "heading": "Do I need sewing experience?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2515,7 +2516,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>No. The recipes are beginner-friendly and easy to follow.</p>",
+                    "text": "<p>No. The patterns are beginner-friendly and easy to follow.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
@@ -2655,7 +2656,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#D97757",
+        "background_color": "#EDE6D6",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -2709,7 +2710,7 @@
             "custom_width_mobile": 100,
             "background_color": "",
             "input_style": "custom",
-            "input_background_color": "#f0ead2",
+            "input_background_color": "#F5F0E4",
             "input_text_color": "{{ settings.color_palette.foreground }}",
             "input_border_color": "{{ settings.color_palette.foreground }}",
             "border_width": 1,
