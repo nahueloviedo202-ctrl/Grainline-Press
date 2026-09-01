@@ -22,7 +22,7 @@
         "animation_speed": 1,
         "space_above": 0,
         "space_below": 0,
-        "background_color": "#dde5b6"
+        "background_color": "#EDE6D6"
       }
     },
     "footer_m9NzUG": {
@@ -938,7 +938,7 @@
                 "ai_gen_block_e3eb87d_GzgXh7": {
                   "type": "ai_gen_block_e3eb87d",
                   "settings": {
-                    "menu": "policy",
+                    "menu": "",
                     "desktop_width_percent": 100,
                     "alignment": "flex-start",
                     "mobile_alignment": "center",
